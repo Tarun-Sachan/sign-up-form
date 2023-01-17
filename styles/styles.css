@@ -19,7 +19,7 @@ main {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  background-image: url(/img/cropped-857-1025-1053330.jpg);
+  background-image: url(img/cropped-857-1025-1053330.jpg);
   background-size: cover;
 }
 
