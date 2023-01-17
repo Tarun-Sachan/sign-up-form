@@ -14,7 +14,7 @@ main {
 }
 
 .leftContainer {
-  background-image: url(img/cropped-857-1025-1053330.jpg);
+  background-image: url(../img/cropped-857-1025-1053330.jpg);
   background-size: cover;
   flex: 1;
   display: flex;
