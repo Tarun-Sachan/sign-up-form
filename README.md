@@ -1,10 +1,10 @@
 
 # Sign-Up Form
 
-A brief description of what this project does and who it's for
+Sign up form skeleton without validation.
 
 
-## [Live Demo](https://www.google.com)
+## [Live Demo](https://tarun-sachan.github.io/sign-up-form/)
 
 ![Screenshot 2023-01-18 at 00-44-12 Sign Up Form](https://user-images.githubusercontent.com/117214735/212992733-e9a17af7-a9dc-4632-ac67-b4e3500b2a0a.png)
 
